@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/12/">
+    <Project Path="ConsoleApp1/12/12.client/12.client.esproj">
+      <Build />
+      <Deploy />
+    </Project>
+    <Project Path="ConsoleApp1/12/12.Server/12.Server.csproj" />
+  </Folder>
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
+</Solution>
